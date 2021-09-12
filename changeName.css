@@ -1,0 +1,12 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.clicked {
+    background-color: green;
+}
+
+.not-clicked {
+    background-color: red;
+}
